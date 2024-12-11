@@ -57,5 +57,6 @@ st.plotly_chart(fig)
 
 about =  st.sidebar.expander("About")
 about.write('''
-    Data source: [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness)
+    - Data source: [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness)
+    - FAQ World happiness report: [FAQ](https://worldhappiness.report/faq/)
 ''')
